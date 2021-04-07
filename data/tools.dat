@@ -108,7 +108,7 @@ Spammer-Email|Spammer-Email|sniffing_spoofing|https://github.com/p4kl0nc4t/Spamm
 Spammer-Grab|Spammer-Grab|sniffing_spoofing|https://github.com/p4kl0nc4t/Spammer-Grab.git|git|python,git
 Stitch|Stitch|null|https://github.com/nathanlopez/Stitch.git|git|python,git
 Striker|Striker|vulnerability_scanner|https://github.com/s0md3v/Striker.git|git|python,git
-Sublist3r|Sublist3r|information_gathering|https://github.com/aboul3la/Sublist3r.git|git|python,git
+Sublist3r|Sublist3r|information_gathering|https://github.com/dreamer1eh/Sublist3r.git|git|python,git
 TermuxAlpine|TermuxAlpine|termux_os|https://github.com/Hax4us/TermuxAlpine.git|git|proot,git
 Th3inspector|Th3inspector|null|https://github.com/Moham3dRiahi/Th3inspector.git|git|perl,git
 The-Eye|The-Eye|null|https://github.com/EgeBalci/The-Eye.git|git|golang,git
